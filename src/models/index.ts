@@ -1,3 +1,3 @@
-export interface IProps {
-    count: number
+export type TProps  = {
+    count?: number
 }
